@@ -1,0 +1,44 @@
+body {text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	color:#4c0606;
+	font-family: 'Avenir', sans-serif;
+
+}
+
+h2{
+	font-weight: bolder;
+	color:#824313;
+	font-family: 'Avenir', sans-serif;
+}
+
+img{
+
+	width: 150px;
+	height: 150px;
+	border-radius: 50%; }
+
+p {font-family: 'montserrat', sans-serif;
+color: #235108;
+font-size: 30px;
+}
+
+a {
+	font-size: 10px;
+
+}
+
+body {background-color: #eaeaea}
+
+ul {list-style: none ;
+padding: 0px;
+}
+
+ul> li{
+	display:inline;
+}
+
+
+
